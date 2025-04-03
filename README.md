@@ -9,7 +9,7 @@ Constantly learning new skills, I am currently taking courses in order to become
 [![Languages](https://skillicons.dev/icons?i=cs,dotnet,c,cpp,py,js,ts,html,css)](https://skillicons.dev)
 
 
-[![Framework](https://skillicons.dev/icons?i=git,bash,vim,ubuntu,react,docker)](https://skillicons.dev)
+[![Framework](https://skillicons.dev/icons?i=git,bash,vim,ubuntu,react,docker,azure)](https://skillicons.dev)
 
 
 [![Softwares](https://skillicons.dev/icons?i=vscode,visualstudio,rider,unity,godot,ae,photoshop,blender,ableton)](https://skillicons.dev)
